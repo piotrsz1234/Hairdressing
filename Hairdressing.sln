@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hairdressing.Services.API",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hairdressing.Services.Domain", "Hairdressing.Services.Domain\Hairdressing.Services.Domain.csproj", "{99BB89CB-7168-44F9-8A6D-BF5CA03C3BCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hairdressing.Common", "Hairdressing.Common\Hairdressing.Common.csproj", "{632921A1-26CD-4D89-A4AC-B2621AD7E313}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,5 +60,9 @@ Global
 		{99BB89CB-7168-44F9-8A6D-BF5CA03C3BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99BB89CB-7168-44F9-8A6D-BF5CA03C3BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99BB89CB-7168-44F9-8A6D-BF5CA03C3BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{632921A1-26CD-4D89-A4AC-B2621AD7E313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632921A1-26CD-4D89-A4AC-B2621AD7E313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632921A1-26CD-4D89-A4AC-B2621AD7E313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632921A1-26CD-4D89-A4AC-B2621AD7E313}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
